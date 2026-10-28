@@ -1,0 +1,7 @@
+body{font-family:Arial;background:#eaf2ff;text-align:center;padding:30px}
+h1{color:#173b75}
+form{background:white;padding:25px;max-width:350px;margin:auto;border-radius:10px}
+input,select,button{width:90%;padding:10px;margin:10px;box-sizing:border-box}
+button{background:#1769aa;color:white;border:none;border-radius:5px;cursor:pointer}
+button:hover{background:#0d4778}
+#message{color:green;font-weight:bold}
